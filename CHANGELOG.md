@@ -1,5 +1,12 @@
 # Changelog
 
+## [11.2.0](https://github.com/Koenkk/zigbee-herdsman/compare/v11.1.1...v11.2.0) (2026-10-25)
+
+
+### Features
+
+* Support for SONOFF Dongle-MP10 auto-discovery ([#1920](https://github.com/Koenkk/zigbee-herdsman/issues/1920)) ([6764136](https://github.com/Koenkk/zigbee-herdsman/commit/6764136fdf781db6d965f8fd5b02e166d6b132e5))
+
 ## [11.1.1](https://github.com/Koenkk/zigbee-herdsman/compare/v11.1.0...v11.1.1) (2026-10-19)
 
 
